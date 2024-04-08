@@ -1,2 +1,3 @@
-# qrcode
-project on qrcode
+# Project
+project on tkinter
+
